@@ -1,0 +1,10 @@
+Rest Api Notes
+-representational state transfer
+    -has certain constrains
+    -separates data into URIs
+-user uses a request to get data from the server
+-Get Post Patch Delete
+-info has headers and a main body
+-sends back response
+
+https://www.youtube.com/watch?v=-MTSQjw5DrM&list=PLsY5wXDiB8aPvmla46BshxCRr88EUOKxj&index=1&t=221s
